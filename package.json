@@ -1,9 +1,9 @@
 {
   "name": "my-portfolio",
-  "homepage": "https://wey4t.github.io",
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://Wey4t.github.io",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
